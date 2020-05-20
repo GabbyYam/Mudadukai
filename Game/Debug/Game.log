@@ -1,0 +1,6 @@
+﻿  GameState.cpp
+E:\yamprod\Game\Game\Gobang\GameState.cpp(115,20): warning C4018: '<': signed/unsigned mismatch
+E:\yamprod\Game\Game\Gobang\GameState.cpp(116,21): warning C4018: '<': signed/unsigned mismatch
+E:\yamprod\Game\Game\Gobang\GameState.cpp(130,26): warning C4018: '>=': signed/unsigned mismatch
+E:\yamprod\Game\Game\Gobang\GameState.cpp(130,45): warning C4018: '>': signed/unsigned mismatch
+  Game.vcxproj -> E:\yamprod\Game\Debug\Game.exe
