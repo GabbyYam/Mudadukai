@@ -1,0 +1,23 @@
+﻿  GameState.cpp
+E:\yamprod\Game\Gobang\Gobang\GameState.cpp(172,20): warning C4018: '<': signed/unsigned mismatch
+E:\yamprod\Game\Gobang\Gobang\GameState.cpp(173,21): warning C4018: '<': signed/unsigned mismatch
+E:\yamprod\Game\Gobang\Gobang\GameState.cpp(188,26): warning C4018: '>=': signed/unsigned mismatch
+E:\yamprod\Game\Gobang\Gobang\GameState.cpp(188,45): warning C4018: '>': signed/unsigned mismatch
+E:\yamprod\Game\Gobang\Gobang\GameState.cpp(228,20): warning C4018: '<': signed/unsigned mismatch
+E:\yamprod\Game\Gobang\Gobang\GameState.cpp(229,21): warning C4018: '<': signed/unsigned mismatch
+E:\yamprod\Game\Gobang\Gobang\GameState.cpp(240,23): warning C4018: '<': signed/unsigned mismatch
+E:\yamprod\Game\Gobang\Gobang\GameState.cpp(259,20): warning C4018: '<': signed/unsigned mismatch
+E:\yamprod\Game\Gobang\Gobang\GameState.cpp(260,21): warning C4018: '<': signed/unsigned mismatch
+E:\yamprod\Game\Gobang\Gobang\GameState.cpp(270,23): warning C4018: '<': signed/unsigned mismatch
+E:\yamprod\Game\Gobang\Gobang\GameState.cpp(286,29): warning C4018: '<': signed/unsigned mismatch
+E:\yamprod\Game\Gobang\Gobang\GameState.cpp(295,29): warning C4018: '<': signed/unsigned mismatch
+E:\yamprod\Game\Gobang\Gobang\GameState.cpp(305,36): warning C4018: '<': signed/unsigned mismatch
+E:\yamprod\Game\Gobang\Gobang\GameState.cpp(305,58): warning C4018: '<': signed/unsigned mismatch
+E:\yamprod\Game\Gobang\Gobang\GameState.cpp(335,27): warning C4018: '>=': signed/unsigned mismatch
+E:\yamprod\Game\Gobang\Gobang\GameState.cpp(335,46): warning C4018: '>=': signed/unsigned mismatch
+  Generating code
+  2 of 361 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Gobang.vcxproj -> E:\yamprod\Game\Release\Gobang.exe

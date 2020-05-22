@@ -1,0 +1,11 @@
+﻿  GameState.cpp
+E:\yamprod\Game\Game\Gobang\GameState.cpp(149,20): warning C4018: '<': signed/unsigned mismatch
+E:\yamprod\Game\Game\Gobang\GameState.cpp(150,21): warning C4018: '<': signed/unsigned mismatch
+E:\yamprod\Game\Game\Gobang\GameState.cpp(165,26): warning C4018: '>=': signed/unsigned mismatch
+E:\yamprod\Game\Game\Gobang\GameState.cpp(165,45): warning C4018: '>': signed/unsigned mismatch
+  SandBox.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 156 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Game.vcxproj -> E:\yamprod\Game\Release\Game.exe
